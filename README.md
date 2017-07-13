@@ -3,8 +3,10 @@
 
 当前支持的Hosts:
 
-1. Google (老D一直不给个自动化脚本我自己来写个)
+1. Google
+     - 基于 [https://github.com/racaljk/hosts/tree/f80fc73db5f051954d3de0d6215ec577e0b3348e](https://github.com/racaljk/hosts/tree/f80fc73db5f051954d3de0d6215ec577e0b3348e)
 2. Disqus 
+
 
 ## 使用方法
 
