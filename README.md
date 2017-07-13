@@ -4,8 +4,9 @@
 当前支持的Hosts:
 
 1. Google
-     - 基于 [https://github.com/racaljk/hosts/tree/f80fc73db5f051954d3de0d6215ec577e0b3348e](https://github.com/racaljk/hosts/tree/f80fc73db5f051954d3de0d6215ec577e0b3348e)
+     - 基于 [racaljk/hosts](https://github.com/racaljk/hosts/tree/f80fc73db5f051954d3de0d6215ec577e0b3348e)
 2. Disqus 
+    - 本身是给自己博客访问评论模块用的, 不过其实Disqus的IP是通用的, 只需要添加一次便可访问所有Disqus评论框
 
 
 ## 使用方法
