@@ -1,0 +1,6 @@
+[submodule "Resource/Google"]
+	path = Resource/Google
+	url = https://github.com/racaljk/hosts
+[submodule "Resource/Disqus"]
+	path = Resource/Disqus
+	url = https://github.com/szhielelp/DisqusHosts
