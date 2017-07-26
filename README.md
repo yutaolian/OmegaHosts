@@ -12,7 +12,7 @@
 ## 使用方法
 
 1. Clone此Repo到本地
-2. Update所有Submodule
+2. git submodule update --init --recursive
 
 ### Windows
 
