@@ -1,5 +1,6 @@
 # OmegaHosts
-一次性解决Hosts问题
+
+一次性解决Hosts问题，反正是我个人用的其他人需要直接Fork
 
 ## 数据源/Submodules
 
@@ -20,9 +21,9 @@
 
 ### Linux/Ubuntu
 
-`sudo sh` 执行 `Tools/Windows` 执行需要的`.sh`
+`Terminal`进入`Tools/Windows`目录 执行使用 `sudo sh` 执行需要的`.sh`
 
 ### Mac
 
-买一台Windows电脑然后查看上方使用方法
+买一台Windows或者Linux然后查看上方使用方法
 
