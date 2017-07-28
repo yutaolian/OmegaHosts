@@ -21,7 +21,7 @@
 
 ### Linux/Ubuntu
 
-`Terminal`进入`Tools/Windows`目录 执行使用 `sudo sh` 执行需要的`.sh`
+使用`Terminal`进入`Tools/Windows`目录 执行使用 `sudo sh` 执行需要的`.sh`
 
 ### Mac
 
