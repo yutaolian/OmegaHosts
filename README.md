@@ -2,13 +2,12 @@
 
 一次性解决Hosts问题，反正是我个人用的其他人有需要请随意Fork
 
+原本用的是外部的Hosts源，不过多数源不太稳定，于是自己维护了一份。
+
 ## 数据源/Submodules
 
 1. Google Hosts
-     - 基于 [racaljk/hosts](https://github.com/racaljk/hosts/tree/f80fc73db5f051954d3de0d6215ec577e0b3348e)
 2. Disqus Hosts
-    - 本身是给自己博客访问评论模块用的, 不过其实Disqus的IP是通用的, 只需要添加一次便可访问所有Disqus评论框
-
 
 ## 使用方法
 
