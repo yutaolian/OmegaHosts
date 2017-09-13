@@ -1,10 +1,8 @@
 # OmegaHosts
 
-一次性解决Hosts问题，反正是我个人用的其他人有需要请随意Fork
+个人维护的Hosts，一次性解决多平台Hosts问题，反正是我个人用的其他人有需要请随意Fork
 
-原本用的是外部的Hosts源，不过多数源不太稳定，于是自己维护了一份。
-
-## 数据源/Submodules
+## 数据源
 
 1. Google Hosts
 2. Disqus Hosts
